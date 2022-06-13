@@ -1,9 +1,3 @@
-[0m[0KSystem check identified some issues:[0K[?25l
-[0K
-WARNINGS:[0K
-[0;33;93mreviews.Title.genre: (fields.W340) null has no effect on ManyToManyField.[0m[0K
-[0;31;91mCommandError: Unable to serialize database: cursor "_django_curs_14031607662368[0K0
-_3" does not exist[0m[0K
 [{"model": "contenttypes.contenttype", "pk": 1, "fields": {"app_label": "admin"[0K,
  "model": "logentry"}}, {"model": "contenttypes.contenttype", "pk": 2, "fields"[0K:
  {"app_label": "auth", "model": "permission"}}, {"model": "contenttypes.content[0Kt
@@ -23,4 +17,4 @@ llf1v4d37yb", "fields": {"session_data": "NTBmMWQyYTEyYjE3NTI2ZjBjMjlmMzQ3YWQyN
 Q4ZWM0ODc4NGNiNDp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphb[0Km
 dvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJlM[0Km
 VlY2Q3NDMxMWZmMWQzYTJhZjQ1MTIxYmY4OWNhYTNlNjY3NjE2In0=", "expire_date": "2022-0[0K6
--27T17:40:32.177Z"}}[0K[?25h
+-27T17:40:32.177Z"}}[0K[?25h]
