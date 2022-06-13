@@ -17,6 +17,8 @@ services:
   web:
     build: ../api_yamdb/
     restart: always
+    args:
+        token_env: 12345
     volumes:
       # Контейнер web будет работать с данными, хранящиеся в томе static_value, 
       # через свою директорию /app/static/
